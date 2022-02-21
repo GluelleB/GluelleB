@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @GluelleB
+- 👀 I’m interested in coding, from python to javascript, i'm eager to learn new langages as well!
+- 🌱 I’m currently learning python, Perl, UNIX, HTML/CSS...
+- 📫 How to reach me gaelle.boursier@yahoo.fr but i'm really slow to reply...
+
+
